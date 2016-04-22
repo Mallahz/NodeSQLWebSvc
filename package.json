@@ -1,0 +1,8 @@
+{
+   "name": "NodeSQLWebSvc",
+   "main": "server.js",
+   "dependencies": {
+   	"express" : "~4.13.4",
+	"body-parser" : "~1.15.0",
+	"method-override" : "~2.3.5"	    
+}
