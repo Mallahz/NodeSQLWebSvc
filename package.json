@@ -6,6 +6,7 @@
 	"body-parser" : "~1.15.0",
 	"method-override" : "~2.3.5",
 	"rsvp" : "~3.2.1",
-	"mssql" : "~3.0.1"	    
+	"mssql" : "~3.0.1",
+	"datejs" : "~0.0.2"	    
 	}
 }
