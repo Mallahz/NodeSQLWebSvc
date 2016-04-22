@@ -6,4 +6,5 @@
 	"body-parser" : "~1.15.0",
 	"method-override" : "~2.3.5"
 	"rsvp" : "~3.3.12"	    
+	}
 }
