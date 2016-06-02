@@ -12,10 +12,10 @@ require('datejs'); // Used to parse date string
 // Configuration for SQL connection ===========================================
 
 var config = {
-    user: 'sql',
-    password: '!2wsxdr5^', // Not ideal
-    domain: 'CERIUMNETWORKS',
-    server: 'sposql12b', // You can use 'localhost\\instance' to connect to named instance 
+    user: '******',
+    password: '******', // Not ideal
+    domain: '******',
+    server: '******', // You can use 'localhost\\instance' to connect to named instance 
     database: 'Shipment Tracking'
 }
 
